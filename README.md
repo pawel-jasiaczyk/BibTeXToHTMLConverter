@@ -9,3 +9,5 @@ This is a main part of my engineer's thesis. Current name is linked with my engi
 Source code of BibManFunctionality.dll includes interfaces for work libraries is avanailbe in another repository on my GitHub. If you want to write .dll for another bibliographic or output format, you will need to implement this interfaces. (WARRING - this is still unfinished - some interfaces might change).
 
 I will make avanaible all source code afrer my graduation if my university won't prohibid me that.
+
+Current version is non-extensible. In near future, I will add plug-in manager, and all work libraries will disapear from client source code. User will be able to add or remove them as input and output plugins.
