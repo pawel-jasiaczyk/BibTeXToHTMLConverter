@@ -1,0 +1,8 @@
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/bin/Debug/BibTeXtoHtmlConverter.exe.mdb
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/bin/Debug/BibTeXtoHtmlConverter.exe
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/obj/x86/Debug/BibTeXtoHtmlConverter.exe
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/obj/x86/Debug/BibTeXtoHtmlConverter.exe.mdb
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/bin/Debug/BibManFunctionality.dll
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/bin/Debug/BibTeX.dll
+/home/pawel/Dokumenty/PracaInzynierska/PracaInzynierska/Aplikacja/BibTeXtoHtmlConverter/BibTeXtoHtmlConverter/bin/Debug/BibToHtml.dll

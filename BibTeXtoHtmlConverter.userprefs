@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="BibTeXtoHtmlConverter/BibTeXtoHtmlConverter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Biblioteki/BibTeX/BibTeX/DoZrobienia.txt">
+    <Files>
+      <File FileName="BibTeXtoHtmlConverter/MainWindow/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="BibTeXtoHtmlConverter/MainWindow/MainWindow.Designer.cs" Line="1" Column="1" />
+      <File FileName="BibTeXtoHtmlConverter/BibUsableBrowser/BibUsableBrowser.cs" Line="1" Column="1" />
+      <File FileName="BibTeXtoHtmlConverter/BibUsableBrowser/BibUsableBrowser.Designer.cs" Line="1" Column="1" />
+      <File FileName="BibTeXtoHtmlConverter/BibUsableBrowser/GroupOptions.cs" Line="1" Column="1" />
+      <File FileName="BibTeXtoHtmlConverter/BibUsableBrowser/GroupOptions.Designer.cs" Line="1" Column="1" />
+      <File FileName="../../Biblioteki/BibTeX/BibTeX/DoZrobienia.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
